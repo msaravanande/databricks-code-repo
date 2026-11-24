@@ -8,7 +8,7 @@ from delta.tables import *
 from delta import *
 from pyspark.sql.functions import *
 
-#app.properties test
+#app.properties test test1
 #[CONFIGS]
 #spark.app.name=spark_app_win10
 #spark.master=local[1]
